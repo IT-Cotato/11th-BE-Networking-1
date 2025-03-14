@@ -9,7 +9,7 @@
 ## 📮 미션 제출 방법
 - 위 저장소를 fork 한 후 clone 해서 코드를 작성합니다.
 - clone 후 새로운 branch를 만든 후 작업합니다.
-- 과제를 완료한 후 원본 Repository의 Main branch로 Pull Request를 해주세요.
+- 과제를 완료한 후 원본 Repository의 `develop branch`로 Pull Request를 해주세요.
 - Pull Request 제목 예시: `[김동영] 1차 과제 제출`
 
 ## 🚨 과제 제출 전 체크 리스트
